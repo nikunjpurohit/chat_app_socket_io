@@ -1,0 +1,17 @@
+{
+  "name": "noderserver",
+  "version": "1.0.0",
+  "description": "This is a nodeserver for ichat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Nikunj",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.4.1"
+  }
+}
